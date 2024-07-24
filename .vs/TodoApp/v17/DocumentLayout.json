@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akank\\Downloads\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\bda10a9b-74e1-45e6-b0c8-75d16b505caf\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|c:\\users\\akank\\downloads\\todoapp\\todolibrary\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|solutionrelative:todolibrary\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\startupconfig\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\startupconfig\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\todousersecrets\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|c:\\users\\akank\\downloads\\todoapp\\todolibrary\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|solutionrelative:todolibrary\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|c:\\users\\akank\\downloads\\todoapp\\todoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC7C206-B2D0-4730-B52D-F0B0CD8FC264}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|c:\\users\\akank\\downloads\\todoapp\\todolibrary\\dataaccess\\itododata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E6772-3077-4725-ACDE-293F0C2549EC}|TodoLibrary\\TodoLibrary.csproj|solutionrelative:todolibrary\\dataaccess\\itododata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2209,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoModel.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\Models\\TodoModel.cs",
+              "RelativeDocumentMoniker": "TodoLibrary\\Models\\TodoModel.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\Models\\TodoModel.cs",
+              "RelativeToolTip": "TodoLibrary\\Models\\TodoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:57:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\appsettings.json",
+              "RelativeToolTip": "TodoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T02:57:26.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\todousersecrets\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\todousersecrets\\secrets.json",
+              "ToolTip": "C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\todousersecrets\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\todousersecrets\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T02:56:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\TodoAPI.csproj",
+              "RelativeDocumentMoniker": "TodoAPI\\TodoAPI.csproj",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\TodoAPI.csproj",
+              "RelativeToolTip": "TodoAPI\\TodoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T02:56:17.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\bda10a9b-74e1-45e6-b0c8-75d16b505caf\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bda10a9b-74e1-45e6-b0c8-75d16b505caf\\secrets.json",
+              "ToolTip": "C:\\Users\\akank\\AppData\\Roaming\\Microsoft\\UserSecrets\\bda10a9b-74e1-45e6-b0c8-75d16b505caf\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\bda10a9b-74e1-45e6-b0c8-75d16b505caf\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T02:56:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\StartupConfig\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\StartupConfig\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\StartupConfig\\ServiceExtensions.cs",
+              "RelativeToolTip": "TodoAPI\\StartupConfig\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:09:19.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Program.cs",
+              "RelativeToolTip": "TodoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:09:08.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\DataAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "TodoLibrary\\DataAccess\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\DataAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "TodoLibrary\\DataAccess\\SqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:15:57.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "TodoAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:06:01.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Readme.md",
+              "RelativeDocumentMoniker": "TodoAPI\\Readme.md",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Readme.md",
+              "RelativeToolTip": "TodoAPI\\Readme.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-03T22:05:40.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITodoData.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\DataAccess\\ITodoData.cs",
+              "RelativeDocumentMoniker": "TodoLibrary\\DataAccess\\ITodoData.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoLibrary\\DataAccess\\ITodoData.cs",
+              "RelativeToolTip": "TodoLibrary\\DataAccess\\ITodoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:05:09.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\akank\\Downloads\\TodoApp\\TodoAPI\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TodoAPI\\Controllers\\TodosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:28:52.271Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2682,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
